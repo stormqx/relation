@@ -1,0 +1,24 @@
+{
+  "innerMember": [
+    "齐鑫",
+    "孙凡"
+  ],
+  "outerMember": [
+    "郑岩",
+    "罗砚",
+    "雷雨佳",
+    "徐铭",
+    "孙超"
+  ],
+  "relations": [
+    {"source": "齐鑫", "target": "孙凡"},
+    {"source": "齐鑫", "target": "雷雨佳"},
+    {"source": "齐鑫", "target": "徐铭"},
+    {"source": "齐鑫", "target": "郑岩"},
+    {"source": "孙凡", "target": "郑岩"},
+    {"source": "孙凡", "target": "徐铭"},
+    {"source": "孙凡", "target": "孙超"},
+    {"source": "孙凡", "target": "齐鑫"},
+    {"source": "孙凡", "target": "罗砚"}
+  ]
+}
